@@ -1,2 +1,2 @@
 # hello-world
-Just following a time honored tradition
+Just following a time honored tradition...
